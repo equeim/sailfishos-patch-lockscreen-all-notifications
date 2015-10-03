@@ -1,0 +1,11 @@
+--- a/usr/share/lipstick-jolla-home-qt5/notifications/NotificationColumn.qml
++++ b/usr/share/lipstick-jolla-home-qt5/notifications/NotificationColumn.qml
+@@ -45,7 +45,7 @@
+                 }, {
+                     "property": "priority",
+                     "comparator": ">=",
+-                    "value": 100
++                    "value": 0
+                 } ]
+                 if (Screen.sizeCategory >= Screen.Large) {
+                     // Temporary: don't show missed calls on tablet

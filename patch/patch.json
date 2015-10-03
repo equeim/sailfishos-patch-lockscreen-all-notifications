@@ -1,0 +1,8 @@
+{
+    "name": "Lockscreen all notifications",
+    "description": "Show all notifications on lockscreen",
+    "category": "homescreen",
+    "infos": {
+        "maintainer": "equeim"
+    }
+}
